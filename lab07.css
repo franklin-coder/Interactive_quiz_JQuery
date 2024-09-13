@@ -1,0 +1,65 @@
+#cuerpo{
+
+    background-color:rgb(218, 143, 4);
+}
+
+hr{
+    font-weight: 700;
+    color: white;
+}
+
+#begin{
+
+    color: white;
+    background-color: rgb(248, 203, 0);
+}
+
+#begin:hover{
+
+    color: rgb(12, 12, 12);
+    background-color: rgb(255, 255, 255);
+}
+
+#mensaje {
+
+    font-weight: 700;
+}
+
+.footer{
+
+    height: 200px;
+    margin-top: 20px;
+    background-color: rgb(218, 143, 4);
+}
+
+#quiz{
+    display: none;
+}
+#showname{
+    font-weight: 700;
+}
+
+#result{
+
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+    margin: 30PX;
+    font-size: 2rem;
+}
+
+/* Modal styles */
+.modal {
+	display: none; /* Hidden by default */
+   
+
+      
+}
+
+#cronometro{
+
+    margin: 0 auto;
+}
+
+#hint_q_1, #hint_q_2, #hint_q_3, #hint_q_4, #hint_q_5{
+    display: none;
+}
